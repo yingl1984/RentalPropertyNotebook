@@ -3,7 +3,7 @@
 Any Real Estate investor can use this notebook to track their properties' status, expecailly the rental property manager. You can clearly view all your managed properties in one place. When you take over a new property, just add a new record into your notebook. You can also update the price or other rental information, even remove the property record from the notebook whenever you want.
 
 Check it out: [Rental Property Notebook](https://rental-property-notebook-master-johnakhilomen.vercel.app/).
-## add to new branch
+
 ## Usage
 1. Welcome Page
 ![Welcome page](/images/Welcome.png)
