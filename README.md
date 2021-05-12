@@ -6,22 +6,22 @@ Check it out: [Rental Property Notebook](https://rental-property-notebook-master
 
 ## Usage
 1. Welcome Page
-![Welcome page](/images/Welcome.png)
+![Welcome page](/src/images/Welcome.png)
 -   Click the "Start" button to load the property list.
 
 2. Property List
-![Property List](/images/PropertyList.png)
+![Property List](/src/images/PropertyList.png)
 -   Cilck the note to navigate to the property details page.
 -   Click the "Add" button to add a new note.
 -   Click the "Remove" button to delete a note.
 
 2. Property Details
--   ![Add a new note](/images/Update.png)
+-   ![Add a new note](/src/images/Update.png)
 -   Click the "Update" button to update the detail information
 
 3. Add a new note
--   ![Add a new note](/images/Add.png)
-ls
+-   ![Add a new note](/src/images/Add.png)
+
 ## API Documentation
 -   Heroku server
     > (https://rental-property-notebook-master-johnakhilomen.vercel.app/)
