@@ -16,11 +16,11 @@ Check it out: [Rental Property Notebook](https://rental-property-notebook-master
 -   Click the "Remove" button to delete a note.
 
 2. Property Details
--   ![Add a new note](/src/images/Update.png)
+![Add a new note](/src/images/Update.png)
 -   Click the "Update" button to update the detail information
 
 3. Add a new note
--   ![Add a new note](/src/images/Add.png)
+![Add a new note](/src/images/Add.png)
 
 ## API Documentation
 -   Heroku server
