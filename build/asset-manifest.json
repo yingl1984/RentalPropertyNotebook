@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fdcf367.chunk.css",
+    "main.js": "/static/js/main.ad6ae2f5.chunk.js",
+    "main.js.map": "/static/js/main.ad6ae2f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1b40241.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1b40241.js.map",
+    "static/js/2.d8cebf2b.chunk.js": "/static/js/2.d8cebf2b.chunk.js",
+    "static/js/2.d8cebf2b.chunk.js.map": "/static/js/2.d8cebf2b.chunk.js.map",
+    "static/js/3.7da9354b.chunk.js": "/static/js/3.7da9354b.chunk.js",
+    "static/js/3.7da9354b.chunk.js.map": "/static/js/3.7da9354b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7fdcf367.chunk.css.map": "/static/css/main.7fdcf367.chunk.css.map",
+    "static/js/2.d8cebf2b.chunk.js.LICENSE.txt": "/static/js/2.d8cebf2b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/granite.25862b06.jpg",
+    "static/media/smartphone.448de80b.png": "/static/media/smartphone.448de80b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b40241.js",
+    "static/js/2.d8cebf2b.chunk.js",
+    "static/css/main.7fdcf367.chunk.css",
+    "static/js/main.ad6ae2f5.chunk.js"
+  ]
+}
